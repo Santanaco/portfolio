@@ -8,7 +8,7 @@ This is a portfolio with use of html and github pages. It contains an about me, 
 
 ## Deployment
 
-Git Hub: 
+Git Hub: https://santanaco.github.io/portfolio/
 
 ## Screenshot
 
